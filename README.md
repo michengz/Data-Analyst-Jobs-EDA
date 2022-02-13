@@ -11,15 +11,15 @@ As an aspiring data analyst, I was curious about the job market while preparing 
 
 * What are the skills that most companies are looking for from applicants?
 
-- What skills are different job seniorities looking for?
-- What skills are different industries looking for?
+  - What skills are different job seniorities looking for?
+  - What skills are different industries looking for?
 * How are the salaries across different position levels?
 
 ## Project Outline
 
 * Data Preparation
-- Loading Data & Data Observation
-- Data Cleaning & Wrangling
+  - Loading Data & Data Observation
+  - Data Cleaning & Wrangling
 * Exploratory Data Analysis & Data Visualizations
 
 * Conclusions & Insights
