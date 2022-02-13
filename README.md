@@ -1,4 +1,4 @@
-# Data Analyst Job Analysis Exploratory Data Analysis
+# Data Analyst Job Exploratory Data Analysis
 
 ## Introduction
 As an aspiring data analyst, I was curious about the job market while preparing for my career and job search. To answer some of the questions that I had in mind, I decided to conduct data analysis on my own. I worked on the DataAnalyst dataset created by Larxel that was scraped from Glassdoor and focused mainly on data that are related to my questions. Hopefully, this analysis would be helpful for those who are looking for data analyst positions as well.
